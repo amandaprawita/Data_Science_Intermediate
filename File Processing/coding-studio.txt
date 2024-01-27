@@ -1,0 +1,2 @@
+Ini adalah text yang baru
+Ini adalah text yang diappend dengan enter
